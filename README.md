@@ -18,6 +18,20 @@ With rising dropout rates in higher education, it's important to develop data-dr
 
 ---
 
+### 📊 Key Visualisations
+
+#### 1. Distribution of Student Outcomes by Marital Status
+
+![Distribution of Student Outcomes by Marital Status](Martial_status.png)
+
+This chart shows how marital status influences student outcomes. Notably, legally separated students have the highest dropout rate (66.7%), while widowers are most likely to remain enrolled.
+
+#### 2. Accuracy Comparison of Classification Models
+
+![Accuracy Comparison of Models](Model_compare.png)
+
+This visual compares the performance of five classification models. Decision Tree performed best with 85.63% accuracy, followed closely by Random Forest and KNN.
+
 ## 🧪 Models Used
 
 - Logistic Regression
